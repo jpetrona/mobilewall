@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_holo_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\btn_default_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tokenads.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\icon_tokenads.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_setting.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_blue_pressed.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_blue_pressed.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_focus.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\center_tab_focus.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_top.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\bg_tab_top.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\home_normal.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\home_normal.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\sponsorpay.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\sponsorpay.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_press.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_press.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_aarki.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\icon_aarki.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginfragment_background_gradient.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginfragment_background_gradient.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\view_bottom_boder.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\view_bottom_boder.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_cash_money.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\logo_cash_money.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_for_menu_button.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\selector_for_menu_button.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_press.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\center_tab_press.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\rewards.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\rewards.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_focus.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_focus.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_download.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\btn_download.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_blue.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_blue.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_invite.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_invite.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\google_play_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\google_play_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_blue_focused.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_blue_focused.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\ic_refresh.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\amazon_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\amazon_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\invite.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\invite.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\supersonicads.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\supersonicads.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_selected.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\center_tab_selected.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_holo_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\edit_text_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_button.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\image_style.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\image_style.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\matomy.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\matomy.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.jpg",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\no_image.jpg"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sp.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\icon_sp.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_reward.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_reward.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_blue_normal.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_blue_normal.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_logo.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_indicator.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\center_tab_indicator.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\paypal_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\paypal_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_offerswall.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_offerswall.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\app_background.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\home_selected.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\home_selected.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_background.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\logout_tab.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\logout_tab.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_close_x.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\btn_close_x.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\offer_wall.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\offer_wall.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_unselected.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\center_tab_unselected.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_r1.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\icon_r1.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    }
+]

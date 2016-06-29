@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mRewards</string>
+    <string name="copyright">© 2016 MobileWall.Co  All rights reserved.</string>
+
+    <string-array name="cash_out">
+        <item>Paypal</item>
+        <item>Google Card</item>
+        <item>Amazon Gift</item>
+    </string-array>
+
+    <string name="show_offers_instruction">This activity replaces your game, where you can place buttons like these:</string>
+    <string name="get_points_instruction">If you\'re not using Server postbacks, check to see if your user is entitled to new points:</string>
+    <string name="show_offers_caption">Show Offers!</string>
+    <string name="show_video_popup_caption">Video Popup</string>
+    <string name="show_cpi_popup_caption">App-Install</string>
+    <string name="get_points_caption">Get The Points</string>
+    <string name="temp_sdk_version">[SDK Version]</string>
+    <string name="temp_app_id">[Application ID]</string>
+    <string name="temp_client_id">[Client ID]</string>
+    <string name="temp_status">[Status Message]</string>
+    <string name="temp_points">0.0000</string>
+    <string name="logo_content_description">Logo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="app_id">309742702560287</string>
+	<string name="invite_text">Share your invitation code with friends!. you will get 25 point each time a new friend input your code successfully. Your friend will get 25 point too</string>
+</resources>

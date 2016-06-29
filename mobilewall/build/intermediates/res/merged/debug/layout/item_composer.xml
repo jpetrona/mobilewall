@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+	<include layout="@layout/item_composer_header" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:padding="6dp" >
+
+		<LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:layout_gravity="right"
+		    android:layout_weight="1"
+		    android:gravity="left" >
+
+			<ImageView
+			    android:id="@+id/imgPayment"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:src="@drawable/amazon_icon" />
+
+			<LinearLayout
+			    android:layout_width="wrap_content"
+			    android:layout_height="match_parent"
+			    android:layout_marginLeft="10dp"
+			    android:layout_weight="1"
+			    android:orientation="vertical" >
+
+			    <TextView
+			        android:id="@+id/account"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="thangnv@abc.com"
+			        android:textColor="#000" />
+
+			    <TextView
+			        android:id="@+id/widthdrawDate"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="1500-1600"
+			        android:textColor="@color/black" />
+
+			</LinearLayout>
+
+		    <LinearLayout
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_gravity="right"
+		        android:layout_weight="1"
+		        android:gravity="right"
+		        android:orientation="vertical" >
+
+		        <TextView
+		            android:id="@+id/widthdrawsPoint"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="1000 points"
+		            android:textColor="#000" />
+
+		        <TextView
+		            android:id="@+id/widthdrawsDate"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="Done"
+		            android:textColor="@color/black" />
+
+		    </LinearLayout>
+
+		</LinearLayout>
+
+	</LinearLayout>
+</LinearLayout>

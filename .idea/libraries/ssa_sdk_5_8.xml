@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ssa-sdk-5.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobilewall/libs/ssa-sdk-5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

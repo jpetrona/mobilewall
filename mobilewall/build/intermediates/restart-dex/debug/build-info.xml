@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="184893392370320"
+    token="-3265016556423629526" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="183966397306930" >
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\outputs\apk\mobilewall-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="184893392370320" >
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

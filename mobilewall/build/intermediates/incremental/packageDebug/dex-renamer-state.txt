@@ -1,0 +1,7 @@
+#Wed Jun 29 13:21:35 PKT 2016
+base.0=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f51d479378d6b75a10bba2379cce6b2905bb7ee
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bf22a9e4091444786be776678e8cfe667b11351e\\classes.dex
+base.1=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bf22a9e4091444786be776678e8cfe667b11351e
+file.0=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f51d479378d6b75a10bba2379cce6b2905bb7ee\\classes.dex

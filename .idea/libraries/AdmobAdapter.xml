@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdmobAdapter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobilewall/libs/AdmobAdapter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

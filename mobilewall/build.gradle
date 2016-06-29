@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.mobilewall.app"
+        minSdkVersion 15
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':amazingListView')
+    compile project(':facebookSDK')
+    compile project(':slide_menu_library')
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    compile files('libs/AarkiAndroidSDK.jar')
+    compile files('libs/AdmobAdapter.jar')
+    compile files('libs/LibConnectEngage.jar')
+    compile files('libs/MopubAdapter.jar')
+    compile files('libs/sponsorpay-android-sdk-7.1.1.jar')
+    compile files('libs/ssa-sdk-5.8.jar')
+    compile files('libs/tokenads-lib.jar')
+    compile files('libs/WoobiSDK_v1.3.1.jar')
+}

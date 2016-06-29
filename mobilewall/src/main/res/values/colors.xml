@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gpt_bg">#9DA8FD</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="border">#cfeffc</color>
+    <color name="header">#FF5B0A</color>
+    <color name="button">#cfeffc</color>
+    <color name="user_point">#FF0000</color>
+    <color name="blue">#4d90fe</color>
+    <color name="backgroud_point">#FFAD00</color>
+	<color name="tabMedium">#2B2B2B</color>
+	<color name="tabDark">#000000</color>
+	<color name="tabTransparent">#10ffffff</color>
+	<color name="lgbackground">#cfeffc</color>
+	<color name="navColor">#0DAEEE</color>
+</resources>

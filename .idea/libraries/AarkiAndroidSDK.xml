@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AarkiAndroidSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobilewall/libs/AarkiAndroidSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

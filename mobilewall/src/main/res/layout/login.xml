@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/lgbackground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="100dp"
+            android:background="@color/navColor"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txtPayType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="SIGNIN"
+                android:textColor="@color/white"
+                android:textColorHint="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dip"
+            android:background="@color/lgbackground"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="60.0dip"
+                android:layout_height="50.0dip"
+                android:padding="2dp"
+                android:src="@drawable/mail" />
+
+            <EditText
+                android:id="@+id/withdraw_name"
+                android:layout_width="0.0dip"
+                android:layout_height="match_parent"
+                android:layout_marginRight="20.0dip"
+                android:layout_weight="1.0"
+                android:gravity="center_vertical"
+                android:hint="Email..."
+                android:padding="8dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dip"
+            android:layout_marginTop="2dp"
+            android:background="@color/lgbackground"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="60.0dip"
+                android:layout_height="50.0dip"
+                android:padding="10.0dip"
+                android:src="@drawable/key" />
+
+            <EditText
+                android:id="@+id/withdraw_account"
+                style="@style/AppBaseTheme"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="20.0dip"
+                android:layout_weight="1.0"
+                android:gravity="center_vertical"
+                android:hint="Password..."
+                android:inputType="textPassword"
+                android:padding="10.0dip" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/lgbackground"
+            android:gravity="center|right"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_withdraw"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@color/button"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="LOGIN"
+                android:textColor="@color/white"
+                android:textColorLink="@color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/btnFacebook"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@color/blue"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Facebook"
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/btn_signup_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:clickable="true"
+            android:linksClickable="true"
+            android:text="Don&apos;t Have an Account?"
+            android:textColor="@color/white"
+            android:textColorLink="@color/black"
+            android:textStyle="italic|bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/withdraw_msg"
+        android:layout_width="fill_parent"
+        android:layout_height="20.0dip"
+        android:layout_margin="5.0dip"
+        android:gravity="center"
+        android:textColor="#ff616161"
+        android:textSize="15.0sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/footer_layer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textViewInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:gravity="bottom"
+            android:text="@string/copyright"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

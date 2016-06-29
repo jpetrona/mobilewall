@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\facebookSDK\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\com_facebook_icon.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\facebookSDK\\src\\main\\res\\drawable-ldpi\\com_facebook_icon.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\facebookSDK\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\com_facebook_close.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\facebookSDK\\src\\main\\res\\drawable-ldpi\\com_facebook_close.png"
+    }
+]
