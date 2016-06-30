@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jun 29 13:21:36 PKT 2016
+#Thu Jun 30 12:14:16 PKT 2016
 20.base=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\resources-debug.ap_
 143.base=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\resources-debug.ap_
 493.base=J\:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\resources-debug.ap_

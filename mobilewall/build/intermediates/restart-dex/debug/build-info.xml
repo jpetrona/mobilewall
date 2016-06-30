@@ -4,35 +4,59 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="184893392370320"
+    timestamp="266840448750599"
     token="-3265016556423629526" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2103" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1392" />
     <task
         name="verifier"
-        duration="0" />
+        duration="86" />
 
     <artifact
         location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
+    <artifact
+        location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
 
-    <build timestamp="183966397306930" >
+    <build timestamp="266338607588626" >
         <artifact
             location="J:\Android\Workspace\mobilewall\mobilewall\build\outputs\apk\mobilewall-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="184893392370320" >
+    <build timestamp="266840448750599" >
         <artifact
             location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

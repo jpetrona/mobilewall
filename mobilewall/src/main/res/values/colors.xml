@@ -3,6 +3,7 @@
 
     <color name="gpt_bg">#9DA8FD</color>
     <color name="black">#000000</color>
+    <color name="grey5">#AAAAAA</color>
     <color name="white">#FFFFFF</color>
     <color name="border">#cfeffc</color>
     <color name="header">#FF5B0A</color>
