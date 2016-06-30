@@ -32,12 +32,12 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_setting_light.png"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_setting_dark.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_setting_dark.png"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cast_on_2_light.png",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_setting_dark.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_setting_dark.png"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_pause_light.png",

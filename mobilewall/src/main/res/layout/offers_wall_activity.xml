@@ -79,6 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/border"
+                android:visibility="gone"
                 android:onClick="rowClick">
 
 
@@ -114,6 +115,7 @@
                 android:id="@+id/tableRow2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:visibility="gone"
                 android:background="@drawable/border"
                 android:onClick="rowClick">
 

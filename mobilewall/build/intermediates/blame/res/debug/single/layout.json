@@ -20,12 +20,12 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
@@ -76,12 +76,12 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_row.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\register.xml"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\register.xml"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",

@@ -4267,8 +4267,11 @@ containing a value of this type.
         public static final int Animation_Design_BottomSheetDialog=0x7f0a008d;
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
+ All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppBaseTheme=0x7f0a000c;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f0a008e;
         public static final int Base_AlertDialog_AppCompat=0x7f0a008f;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0a0090;

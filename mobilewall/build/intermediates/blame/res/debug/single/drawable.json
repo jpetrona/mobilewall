@@ -16,24 +16,24 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_off.png"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\tab_setting.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_off.png"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_item_background.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_item_background.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\logo.png"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable\\logo.png"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -52,12 +52,12 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_divider.9.png"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable\\center_tab_focus.xml",

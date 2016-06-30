@@ -40,12 +40,12 @@
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_access_accounts_dark.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable-hdpi\\device_access_accounts_dark.png"
-    },
-    {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
         "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_access_accounts_dark.png",
+        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\drawable-hdpi\\device_access_accounts_dark.png"
     },
     {
         "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_view_grouping_header.png",
