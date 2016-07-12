@@ -1,14 +1,14 @@
 [
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_icon.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable-ldpi-v4\\com_facebook_icon.png"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable-ldpi-v4\\com_facebook_close.png"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_icon.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\drawable-ldpi-v4\\com_facebook_icon.png"
     }
 ]

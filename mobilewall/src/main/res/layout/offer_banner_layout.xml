@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingTop="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/greyLine"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/md_grey_300"
+            android:visibility="invisible" />
+
+        <RelativeLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/greyLine"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/txtcredits"
+                style="@style/TextAppearance.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/list_offer_badge_text"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+
+                android:layout_margin="5dp"
+                android:background="@color/blue"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:text="Earn Credits"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+
+                android:background="@color/black" />
+
+            <TextView
+                android:id="@+id/list_offer_badge_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="5dp"
+                android:text="Rewards and  Offers"
+                android:textColor="@color/blue"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/txtdesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:gravity="center_horizontal"
+                android:maxLines="2"
+                android:text="Check the latest offers and try new apps"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_above="@+id/txtcredits"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="22dp" />
+
+        </RelativeLayout>
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/imgcreditcompany"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignLeft="@+id/greyLine"
+            android:layout_alignStart="@id/greyLine"
+
+            android:layout_alignTop="@+id/greyLine"
+            android:layout_marginLeft="10dp"
+            android:contentDescription="@string/app_name"
+
+            android:src="@drawable/offer_wall"
+            app:civ_border_color="#000000"
+            app:civ_border_width="1dp" />
+
+        <TextView
+            android:id="@+id/txtname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/greyLine"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@+id/imgcreditcompany"
+            android:layout_toRightOf="@+id/imgcreditcompany"
+            android:text="Offer Banner"
+            android:textColor="@color/md_grey_900"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/list_offer_badge"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/amazon_icon"
+            android:tint="@color/md_amber_700"
+            android:visibility="gone"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/greyLine"
+            android:layout_alignStart="@+id/greyLine" />
+    </RelativeLayout>
+
+</RelativeLayout>

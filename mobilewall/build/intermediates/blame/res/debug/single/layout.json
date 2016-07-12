@@ -1,398 +1,406 @@
 [
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\rewards_activity.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\rewards_activity.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\offers_wall_activity.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\offers_wall_activity.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\register.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\sonic_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\sonic_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\leftmenu.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\leftmenu.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\ads_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\ads_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\tab_indicator.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\termslayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\termslayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\withdraw.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\withdraw.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\withdraw.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\withdraw.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\changepasswordlayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\changepasswordlayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_search_box.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_section_header.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_image.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_row.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_friendpickerfragment.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\register.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_progress.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\slide_menu_library\\unspecified\\res\\layout\\slidingmenumain.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\tab_indicator.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\sponsor_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\sponsor_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\termslayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\termslayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\leftmenu.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\leftmenu.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer_point.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer_point.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\row_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\row_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\account.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\account.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\offers_wall_activity.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\offers_wall_activity.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\center_tab_indicator.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\center_tab_indicator.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\aboutlayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\aboutlayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\changepasswordlayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\changepasswordlayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\clickhistorylayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\clickhistorylayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\login.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_loginfragment.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_loginfragment.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer_header.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer_header.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\token_ads.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\token_ads.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_friendpickerfragment.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_image.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\main.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\cpa_system.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\cpa_system.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\sponsor_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\sponsor_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_row.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer_header.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer_header.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\slidmenuxamplemainactivity.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\slidmenuxamplemainactivity.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\invite_activity.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\invite_activity.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\invite_activity.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\invite_activity.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\widthdrawhistorylayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\widthdrawhistorylayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\login.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\slidmenuxamplemainactivity.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\slidmenuxamplemainactivity.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\aboutlayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\aboutlayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\aboutapplayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\aboutapplayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\cpa_system.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\cpa_system.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\contactlayout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\contactlayout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\rightmenu.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\rightmenu.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\item_composer_point.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\item_composer_point.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\dashboard.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\token_ads.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\token_ads.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\aboutapplayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\aboutapplayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\loading_view.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\dashboard.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_search_box.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\loading_view.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\center_tab_indicator.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\center_tab_indicator.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_section_header.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\account.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\account.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\rightmenu.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\rightmenu.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_loginfragment.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_loginfragment.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_checkbox.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\widthdrawhistorylayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\widthdrawhistorylayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\contactlayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\contactlayout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\offer_banner_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\offer_banner_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\sonic_layout.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\sonic_layout.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_checkbox.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\row_item.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\row_item.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\rewards_activity.xml",
-        "source": "J:\\Android\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\rewards_activity.xml"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\mobilewall\\slide_menu_library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\clickhistorylayout.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\src\\main\\res\\layout\\clickhistorylayout.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\mobilewall\\mobilewall\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     }
 ]

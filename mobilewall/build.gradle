@@ -36,4 +36,6 @@ dependencies {
     compile files('libs/ssa-sdk-5.8.jar')
     compile files('libs/tokenads-lib.jar')
     compile files('libs/WoobiSDK_v1.3.1.jar')
+    compile 'com.mikhaellopez:circularimageview:3.0.2'
+
 }

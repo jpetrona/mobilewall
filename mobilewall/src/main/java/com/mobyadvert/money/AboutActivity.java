@@ -24,7 +24,7 @@ import com.mobyadvert.money.lib.UserFunctions;
 public class AboutActivity extends FragmentActivity implements
 OnClickListener, OnOpenListener {
 
-	public SlidingMenu menu;
+//	public SlidingMenu menu;
 	private LinearLayout about, terms, widthdrawhistory, clickhistory,
 	changepassword, contact,logout;
 	
@@ -36,7 +36,7 @@ OnClickListener, OnOpenListener {
 		setContentView(R.layout.slidmenuxamplemainactivity);
 		MyApplication.getInstance().trackScreenView("SettingsActivity");
 
-		menu = new SlidingMenu(this);
+		/*menu = new SlidingMenu(this);
 		menu.setMode(SlidingMenu.LEFT_RIGHT);
 		menu.setTouchModeAbove(SlidingMenu.TOUCHMODE_MARGIN);
 		menu.setShadowWidthRes(R.dimen.shadow_width);
@@ -53,7 +53,8 @@ OnClickListener, OnOpenListener {
 
 		initLayoutComponent(leftmenuview, rightmenuview);
 
-		menu.setSecondaryOnOpenListner(this);
+		menu.setSecondaryOnOpenListner(this);*/
+		initLayoutComponent();
 
 		about.setOnClickListener(this);
 		terms.setOnClickListener(this);
@@ -65,17 +66,14 @@ OnClickListener, OnOpenListener {
 	}
 	
 	
-	private void initLayoutComponent(View leftmenu, View rightmenu) {
-		about = (LinearLayout) leftmenu.findViewById(R.id.about);	
-		terms = (LinearLayout) leftmenu
-				.findViewById(R.id.terms);
-		widthdrawhistory = (LinearLayout) leftmenu
-				.findViewById(R.id.historywidthdraw);
-		clickhistory = (LinearLayout) leftmenu.findViewById(R.id.historyclick);
-		changepassword = (LinearLayout) leftmenu.findViewById(R.id.changepassword);
-		contact = (LinearLayout) leftmenu
-				.findViewById(R.id.contact);
-		logout = (LinearLayout) leftmenu.findViewById(R.id.logout);
+	private void initLayoutComponent() {
+		about = (LinearLayout) findViewById(R.id.about);
+		terms = (LinearLayout)  findViewById(R.id.terms);
+		widthdrawhistory = (LinearLayout) findViewById(R.id.historywidthdraw);
+		clickhistory = (LinearLayout) findViewById(R.id.historyclick);
+		changepassword = (LinearLayout) findViewById(R.id.changepassword);
+		contact = (LinearLayout) findViewById(R.id.contact);
+		logout = (LinearLayout) findViewById(R.id.logout);
 	}
 	
 	@Override
@@ -91,7 +89,7 @@ OnClickListener, OnOpenListener {
 					ft.replace(R.id.activity_main_content_fragment, fragment);
 					ft.commit();
 				}
-				menu.toggle();
+//				menu.toggle();
 		} else if (v.getId() == R.id.terms) {
 			
 				fragment = new TermsActivity();
@@ -100,32 +98,19 @@ OnClickListener, OnOpenListener {
 					ft.commit();
 					// tvTitle.setText(selectedItem);
 				}
-				menu.toggle();
+//				menu.toggle();
 		} else if (v.getId() == R.id.historywidthdraw) {
-				fragment = new WithDrawHistoryActivity();
-				
-				if (fragment != null) {
-					ft.replace(R.id.activity_main_content_fragment, fragment);
-					ft.commit();
-					// tvTitle.setText(selectedItem);
-				}
-				menu.toggle();
+			Intent i = new Intent(getApplicationContext(), WithDrawHistoryActivity.class);
+			startActivity(i);
+//				menu.toggle();
 		} else if (v.getId() == R.id.historyclick) {
-				fragment = new ClickHistoryActivity();
-				if (fragment != null) {
-					ft.replace(R.id.activity_main_content_fragment, fragment);
-					ft.commit();
-					// tvTitle.setText(selectedItem);
-				}
-				menu.toggle();
+			Intent i = new Intent(getApplicationContext(), ClickHistoryActivity.class);
+			startActivity(i);
+//				menu.toggle();
 		} else if (v.getId() == R.id.changepassword) {
-			fragment = new ChangePassword();
-			if (fragment != null) {
-				ft.replace(R.id.activity_main_content_fragment, fragment);
-				ft.commit();
-				// tvTitle.setText(selectedItem);
-			}
-			menu.toggle();
+			Intent i = new Intent(getApplicationContext(), ChangePassword.class);
+			startActivity(i);
+//			menu.toggle();
 
 		} else if (v.getId() == R.id.contact) {
 			fragment = new ContactActivity();
@@ -134,7 +119,7 @@ OnClickListener, OnOpenListener {
 				ft.commit();
 				// tvTitle.setText(selectedItem);
 			}
-			menu.toggle();
+//			menu.toggle();
 
 		} else if (v.getId() == R.id.logout) {
 			
@@ -162,9 +147,9 @@ OnClickListener, OnOpenListener {
 		} 
 	}
 	
-	public void toggleMenu(View v) {
+	/*public void toggleMenu(View v) {
 		menu.toggle();
-	}
+	}*/
 
 	@Override
 	public void onOpen() {

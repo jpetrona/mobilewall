@@ -16,6 +16,7 @@ import com.mobyadvert.money.lib.DatabaseHandler;
 import com.mobyadvert.money.lib.JSONParser;
 import com.mobyadvert.money.lib.UserFunctions;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -31,7 +32,7 @@ import android.widget.Toast;
 
 
 
-public class ChangePassword extends Fragment {
+public class ChangePassword extends Activity {
 	
 	public final String BASE_URL = "http://reward.mobilewall.co/";
 	private Button updateButton;
@@ -43,14 +44,14 @@ public class ChangePassword extends Fragment {
 	private WeakReference<ChangePassworded> asyncTaskWeakRef;
 	
 	@Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public void onCreate( Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-		View view = inflater.inflate(R.layout.changepasswordlayout, null);
-		updateButton = (Button) view.findViewById(R.id.btnUpdate);
-		oldPassword = (TextView) view.findViewById(R.id.txtOldPassword);
-		newPassword = (TextView) view.findViewById(R.id.txtNewPassword);
-		reNewPassword = (TextView) view.findViewById(R.id.txtReNewPassword);
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.changepasswordlayout);
+		updateButton = (Button) findViewById(R.id.btnUpdate);
+		oldPassword = (TextView) findViewById(R.id.txtOldPassword);
+		newPassword = (TextView) findViewById(R.id.txtNewPassword);
+		reNewPassword = (TextView) findViewById(R.id.txtReNewPassword);
 
 		MyApplication.getInstance().trackScreenView("ChangePassword");
 
@@ -59,7 +60,7 @@ public class ChangePassword extends Fragment {
 			@Override
 			public void onClick(View v) {
 				if (newPassword.getText().equals(reNewPassword.getText())) {
-					Toast.makeText(getActivity(), "new passwod don't see match", Toast.LENGTH_SHORT).show();
+					Toast.makeText(ChangePassword.this, "new passwod don't see match", Toast.LENGTH_SHORT).show();
 				}
 				
 				//exec update password
@@ -69,8 +70,6 @@ public class ChangePassword extends Fragment {
 				Log.v("Check CLICK","onclick have click");
 			}
 		});
-		
-        return view;
     }
 	
 	private void startNewAsyncTask() {
@@ -87,7 +86,7 @@ public class ChangePassword extends Fragment {
 			List<NameValuePair> entity = new ArrayList<NameValuePair>();
 
 			UserFunctions userFunctions = new UserFunctions();
-			String email = userFunctions.getEmail(getActivity());
+			String email = userFunctions.getEmail(ChangePassword.this);
 			entity.add(new BasicNameValuePair("email", email));
 			entity.add(new BasicNameValuePair("old_password", oldPassword.getText().toString()));
 			entity.add(new BasicNameValuePair("new_password", newPassword.getText().toString()));
@@ -105,15 +104,15 @@ public class ChangePassword extends Fragment {
 			try {
 				if (json != null) {
 					if (json.getString(KEY_SUCCESS) != null) {
-							Toast.makeText(getActivity(), "password update successfully", Toast.LENGTH_SHORT).show();
+							Toast.makeText(ChangePassword.this, "password update successfully", Toast.LENGTH_SHORT).show();
 						} else {
-							Toast.makeText(getActivity(), "update error. please try again", Toast.LENGTH_SHORT).show();
+							Toast.makeText(ChangePassword.this, "update error. please try again", Toast.LENGTH_SHORT).show();
 						}
 				} else {
-					Toast.makeText(getActivity(), "update error. please try again", Toast.LENGTH_SHORT).show();
+					Toast.makeText(ChangePassword.this, "update error. please try again", Toast.LENGTH_SHORT).show();
 				}
 			} catch (JSONException e) {
-				Toast.makeText(getActivity(), e.getMessage(), Toast.LENGTH_SHORT).show();
+				Toast.makeText(ChangePassword.this, e.getMessage(), Toast.LENGTH_SHORT).show();
 			}
 		}
 	}

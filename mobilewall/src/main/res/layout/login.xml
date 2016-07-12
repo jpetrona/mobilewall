@@ -117,6 +117,7 @@
             android:gravity="center"
             android:padding="10dp"
             android:text="Facebook"
+            android:visibility="gone"
             android:textColor="@color/white"
             android:textColorLink="@color/white"
             android:textStyle="bold" />

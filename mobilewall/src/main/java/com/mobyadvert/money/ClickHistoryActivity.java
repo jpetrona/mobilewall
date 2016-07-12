@@ -17,6 +17,7 @@ import com.foound.widget.AmazingListView;
 import com.mobyadvert.money.lib.JSONParser;
 import com.mobyadvert.money.lib.UserFunctions;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -29,7 +30,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class ClickHistoryActivity extends Fragment {
+public class ClickHistoryActivity extends Activity {
 
 	AmazingListView lsComposer;
 	SectionComposerAdapter adapter;
@@ -38,20 +39,19 @@ public class ClickHistoryActivity extends Fragment {
 	private ProgressDialog dialog;
 	
 	@Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-		View view =  inflater.inflate(R.layout.clickhistorylayout, container, false);
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.clickhistorylayout);
+
+		lsComposer = (AmazingListView) findViewById(R.id.historyPointComposer);
         
-        lsComposer = (AmazingListView)view.findViewById(R.id.historyPointComposer);
         
-        
-        dialog = new ProgressDialog(getActivity());
+        dialog = new ProgressDialog(this);
 		dialog.setMessage("Loading...");
 		
         dialog.show();
         getData();
-		return view;
     }
 	
 	public void getData() {
@@ -72,7 +72,7 @@ public class ClickHistoryActivity extends Fragment {
 			List<NameValuePair> entity = new ArrayList<NameValuePair>();
 
 			UserFunctions userFunctions = new UserFunctions();
-			String user_id = userFunctions.getUserID(getActivity());
+			String user_id = userFunctions.getUserID(ClickHistoryActivity.this);
 			entity.add(new BasicNameValuePair("user_id", user_id));
 
 			JSONObject json = jsonParser.getJSONFromUrl(params[0], entity);
@@ -82,6 +82,8 @@ public class ClickHistoryActivity extends Fragment {
 		@Override
 		protected void onPostExecute(JSONObject json) {
 			super.onPostExecute(json);
+			if (dialog!=null)
+				dialog.dismiss();
 			UserFunctions userFunction = new UserFunctions();
 			// check return data
 			try {
@@ -90,13 +92,13 @@ public class ClickHistoryActivity extends Fragment {
 							JSONArray json_user = json.getJSONArray("points");
 							processData(json_user);
 						} else {
-							Toast.makeText(getActivity(), "get data error. please try again", Toast.LENGTH_SHORT).show();
+							Toast.makeText(ClickHistoryActivity.this, "get data error. please try again", Toast.LENGTH_SHORT).show();
 						}
 				} else {
-					Toast.makeText(getActivity(), "get data error. please try again", Toast.LENGTH_SHORT).show();
+					Toast.makeText(ClickHistoryActivity.this, "get data error. please try again", Toast.LENGTH_SHORT).show();
 				}
 			} catch (JSONException e) {
-				Toast.makeText(getActivity(), e.getMessage(), Toast.LENGTH_SHORT).show();
+				Toast.makeText(ClickHistoryActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
 			}
 		}
 	}
@@ -142,7 +144,7 @@ public class ClickHistoryActivity extends Fragment {
 			all.add(getItmes(titleArray.get(j).toString(),composerList));
 		}
 		
-		lsComposer.setPinnedHeaderView(getActivity().getLayoutInflater().inflate(R.layout.item_composer_header, lsComposer, false));
+		lsComposer.setPinnedHeaderView(ClickHistoryActivity.this.getLayoutInflater().inflate(R.layout.item_composer_header, lsComposer, false));
 		lsComposer.setAdapter(adapter = new SectionComposerAdapter());
 		
 		dialog.dismiss();
@@ -199,7 +201,7 @@ public class ClickHistoryActivity extends Fragment {
 		@Override
 		public View getAmazingView(int position, View convertView, ViewGroup parent) {
 			View res = convertView;
-			if (res == null) res = getActivity().getLayoutInflater().inflate(R.layout.item_composer_point, null);
+			if (res == null) res = ClickHistoryActivity.this.getLayoutInflater().inflate(R.layout.item_composer_point, null);
 			
 			TextView point = (TextView) res.findViewById(R.id.historyPoint);
 			TextView date = (TextView) res.findViewById(R.id.historyDate);

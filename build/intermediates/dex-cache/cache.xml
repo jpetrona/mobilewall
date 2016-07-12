@@ -3,579 +3,1182 @@
 
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_8c25204f06955314526bf23b194d2828d886a948\classes.dex" />
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_f2f34c29f6d7cc2e414eedb272f3a45670a2a156\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_01e91898311c4bb1eef65d8c1f546ccab7fc7d0f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_d06d1b716896d1b65a33467b9ce68faf65053e09\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_23f37dfa913edd352c7b4bb8ab088e10db2e4a92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_d1b4c30a1738db3621318bc2a53818504e3cd6a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="69472e334350cafbf442776da05c9a04955252fb">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_84b3a827c853308e20843958de3d0ba43f53c41c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_d34e2210a01488df245446e964bcb0864fee4df5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\MopubAdapter.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="1d885028dcb608093adbffa433fad64c39ac7569">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\MopubAdapter_7daadfea24a08673f9615c82a378671afbb85404\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_06931164b0a323b2b1e99414b6786e28d3d63712\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_35d6f7e0fb90987aab97191fd4b6c234e7be9c35\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_aa2ff272f8e8f1c183f48480f0cf5eabb4fc3325\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\ssa-sdk-5.8.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="e469da72345f407f660f3ccd26618fb4cad5d259">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\ssa-sdk-5.8_0ab38f14aaab0f5db2cfa9033491f24da5056102\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_dbb74e12dac57a5e0991b9d45c719d8a2b7e7a2b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b3b7faaba8b36e46acc2dac7f6fd8b35ce0e4839\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_c8426799f5be202b3c1d4f92cbeb39e53694e724\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_a8660791eb9916c0c141bb6ea9fc1c5d2931e30c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_663f7c5fe3846d3e2f4bcab8c70f36ceadda9886\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_912ac1eadd32e656308a6c04011005f3d5c3f11e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_b6a8246636d136b92082f1159eaa1ab0c994511e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_8208c57c1fdbd464d0d4a3414768a668f869875e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_ab4538497454f36de637dc2257e408a5e096e966\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_e9bba1abf3262b4a23166a6028fabf9486294828\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_296c5557ae9c86d99078b97256210f765e254d18\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="9e0ccb1522f0a440a5d1cd7965a07b85e109a758">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f51d479378d6b75a10bba2379cce6b2905bb7ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_df6647ef1690ae2bd1e879a33f7c6162a00e7161\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e43c87306032fe6259ce5698eea19a344bdadd34\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_4469a060b422a7807707f4c0e70b8c5a668cacbc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\AarkiAndroidSDK.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="4bd4b01a780ea5f65249fe22ce1ad9436492ede6">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\AarkiAndroidSDK_e596a688a2f2c4e8ef4d4a3463108652ea68b874\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_03193b77b51228fd2f0fe4c0dc1a46569808de2d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_25e91f7d666b0116388b3b865b49788665c771aa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_782542da7a88bfceac7af9621d2970500b87bb69\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_808e6c7dd70a62148690822533b6091df9dbe823\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_d177d4611de4a14e7cde167a26d2b698ce4fef57\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_b527426b06d4d6ae1212ecc2e6820caf580a0156\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_f1ddf564d52c76681af64567bc75e3b0cb8992ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_e6dad5a24feb2a8137c4812d14f6f8e072c81734\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_55f48f21380d3a18c0233a87716fba84eeb83f61\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_87f8ab69de6aa87cdc52baeda3d9d9eb42566a4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_ffd8808ee9a8151876b4403d72b562ec53e7518c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_f1404f7e665587e35170cdc87e84df4d79c289de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_22abf7871938bbed71ebeeb7df8756990f06f217\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_017982c66cd0b8490d6a6c8600d2675f8967bf1e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_f9b5b1814dbcc91a4fc6edb0ad04bcee04a6b2fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="20a0ad7801d91403273cb8fb7af0b38f759eea17">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf22a9e4091444786be776678e8cfe667b11351e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e4b10b6a3f450969211a00011e6df2418e096e8b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\LibConnectEngage.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="70721602cce88ec4e97b238f0ad2e944eafc825c">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\LibConnectEngage_170d52d538455752e677190c94678ff53074a69e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_5aba2e05e230746f016fe764edbcaaf8997737be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_3f688bafd8c87ed2c36c1564f3737a6a3503775a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\WoobiSDK_v1.3.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="8dd623daa25d9102be6e4bbb03f137f7abd11132">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\WoobiSDK_v1.3.1_f93bc1449fde65576756d1e5869d5a2c67cc5675\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_a9b5f916056db9016d3aeedc384140ae8108b349\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_7b37d28832a95c8e8e3a540c9f51914f9479b9f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\sponsorpay-android-sdk-7.1.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="6212bd5904109f68d848bd89a24f3ac64ffe7b45">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\sponsorpay-android-sdk-7.1.1_b5e0c42b5161019f1d24529c3d63dd061dc1097e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_2dad1ddd60129397c16a442223667615f93bf74e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_403e657c0a1a9dbba80ee89b1d88bd34dc65627e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\tokenads-lib.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\tokenads-lib.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
         sha1="3c39f7ec5f2dd5259dba492c68bad0620ca0022f">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\tokenads-lib_a182a5250cb03465b7464b98025a3024e22149a3\classes.dex" />
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\tokenads-lib_dbec8493f249d6d26f0cc8244244652f8a41b66b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_c93a57c72e83b1d23b41ac7503615c8715597463\classes.dex" />
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_051fb704aecd6c453152e28a6ad724f70977fafc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\libs\AdmobAdapter.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_4f31c85dbafad85882bb32945dbcc768df38a2ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_a678f21f6a41f6afa366650b12beea382c339c96\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-9.0.2_df06966f91efc34cf7b7865ab67ebe47c342ef14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_be6cd874c7f44368c3ef4657486e58586f1ea0af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_43e36871f47c00fbe6b748040bc920a70ffe53c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_44f87e2ac9a17c2dc22ef9ab6dd31ef0a1f55730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_ca9b69d187c9e92215ffd978c54b742fa6b71c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\AdmobAdapter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cce0e5ebfec0f2c7c6aff01fd71057d0546e5f7">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\AdmobAdapter_b72c2a6d0baf380576bb84ea5b06bd21da2f999f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-common-9.0.2_f49bf19bc6de7a014f4f57e69863ce33d4b6d917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_74ac5d9e16a41b551a7fa0d6893bf100c53bb00c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_968716875f6166502b6503fe0ab5c29030e65cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_a34e3e326442e42c272b65de41bd68e831037e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_bbd5386a6b6af0b7ac66bca3c10cdd9f74f24c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\support-annotations-23.4.0_313a571cb89767c7be671d7b82e7dd35b3cedbd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_ce54269682df1092c135d61c01a2d3c7bae277e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\tokenads-lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c39f7ec5f2dd5259dba492c68bad0620ca0022f">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\tokenads-lib_dbec8493f249d6d26f0cc8244244652f8a41b66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\internal_impl-23.0.0_43e36871f47c00fbe6b748040bc920a70ffe53c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.2_f2f34c29f6d7cc2e414eedb272f3a45670a2a156.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f6daed4773a61e070b0626ca83897dc6a0ae3882">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6fd2837470717a16a499241cb31799e58919630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_f49bf19bc6de7a014f4f57e69863ce33d4b6d917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_041cfb6d71a7b674ea87b9677ff043a4e0a0c08a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\LibConnectEngage.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="70721602cce88ec4e97b238f0ad2e944eafc825c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\LibConnectEngage_76063365776987625147e79ad6cd3ee11c2f864f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_74ac5d9e16a41b551a7fa0d6893bf100c53bb00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wearable-9.0.2_968716875f6166502b6503fe0ab5c29030e65cf4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_9d54a19d10f3db47a6c6a79c4b21dbc2e51f9b79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_276b6e8ee3c40ae7286ee4a4daccfc906fa7c0d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-drive-9.0.2_0f2a43ba65a2f87cadcc4a3f4c64819dd03a7b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-crash-9.0.2_44f87e2ac9a17c2dc22ef9ab6dd31ef0a1f55730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_ce54269682df1092c135d61c01a2d3c7bae277e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.0.2_e4a12c8bbe1869c9212336dd077ccd163d3ff73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.0.2_956600af0f73dbd516e30db4e4b23b86a6485b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-9.0.2_397abdbaaeff8b160ad95c228d4480c79d8755e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-9.0.2_7de45d79ccef1f21caff7ab6593e645e54330bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-9.0.2_041cfb6d71a7b674ea87b9677ff043a4e0a0c08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-9.0.2_9c0a5b76478f4cbc991d60dc6f0166d054acf18c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_daba6e232e074498e38938c46d745e005848275c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_2cf5974fae6171bfc2ff18be0e9827e05dd9c9ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\WoobiSDK_v1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8dd623daa25d9102be6e4bbb03f137f7abd11132">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\WoobiSDK_v1.3.1_109a008cdf3ac7270f55e0d1a8ab174a363051ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9b2d9fb359a602f3f0b60fd882912043cd5b9b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\LibConnectEngage.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="70721602cce88ec4e97b238f0ad2e944eafc825c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\LibConnectEngage_76063365776987625147e79ad6cd3ee11c2f864f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_6c923659098d514eb7d448d611f31a9a78e64d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-safetynet-9.0.2_b4b073e96888d6be777cf1f423cbe44680fd57e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-module-9.0.2_9d54a19d10f3db47a6c6a79c4b21dbc2e51f9b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\internal_impl-23.4.0_096ac0612680c862261938fdbe098a878e7b4f8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_46774e3e4e6abf1e7e4ec5c0510e1674fe058880\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.mikhaellopez-circularimageview-3.0.2_276b6e8ee3c40ae7286ee4a4daccfc906fa7c0d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_0f2a43ba65a2f87cadcc4a3f4c64819dd03a7b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-9.0.2_2cf5974fae6171bfc2ff18be0e9827e05dd9c9ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_956600af0f73dbd516e30db4e4b23b86a6485b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="763a4398706ce1bb14bb5228c3103c14526e94a2">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fe44ac11d2416407484ade30b6711c143b331800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_7de45d79ccef1f21caff7ab6593e645e54330bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-config-9.0.2_6c923659098d514eb7d448d611f31a9a78e64d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-common-9.0.2_71f0301868bb8c34d1c1f16498c902717e4ab9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-9.0.2_051fb704aecd6c453152e28a6ad724f70977fafc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_9c0a5b76478f4cbc991d60dc6f0166d054acf18c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\MopubAdapter.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="1d885028dcb608093adbffa433fad64c39ac7569">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\MopubAdapter_b1c507e5312b30691606652389e3cf853d2abd3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\WoobiSDK_v1.3.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="8dd623daa25d9102be6e4bbb03f137f7abd11132">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\WoobiSDK_v1.3.1_109a008cdf3ac7270f55e0d1a8ab174a363051ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-9.0.2_a678f21f6a41f6afa366650b12beea382c339c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-9.0.2_b69b3ac8484eb9364f42d077c9a7e73ce288f78f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f7e5002d1e7e42225d98209f75b28ea1a57e7092\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\MopubAdapter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d885028dcb608093adbffa433fad64c39ac7569">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\MopubAdapter_b1c507e5312b30691606652389e3cf853d2abd3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fitness-9.0.2_4f31c85dbafad85882bb32945dbcc768df38a2ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.0.2_f9cf6643b39b286856b127085ee2793e792f405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_46774e3e4e6abf1e7e4ec5c0510e1674fe058880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_f7e5002d1e7e42225d98209f75b28ea1a57e7092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.0.2_9ff12f4494db38e15bad82b6e905fe43771f6e0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_b4b073e96888d6be777cf1f423cbe44680fd57e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wallet-9.0.2_8599f8049af888a435627656f98d183effe93605.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_71f0301868bb8c34d1c1f16498c902717e4ab9b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_b69b3ac8484eb9364f42d077c9a7e73ce288f78f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\sponsorpay-android-sdk-7.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6212bd5904109f68d848bd89a24f3ac64ffe7b45">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\sponsorpay-android-sdk-7.1.1_7d01cfe12a38746e007a3d7c9f602ffad72239ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_ff81f35c009ee239c323b2767e711fc42d70766c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_dafe0dc3c839f8a2f01c11afd2bc3904d616d2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\mobilewall\slide_menu_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2dd041901feac56f704fd4c7b7506a03bd11d5fe">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\mobilewall-slide_menu_library-unspecified_bac36e28c48d793cdcb70079a9f262f549927bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-9.0.2_8ac239506e38de4ada6de5e16fdb9249cef06242.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_f9cf6643b39b286856b127085ee2793e792f405e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_53fa5b7d035ee1527e79023046796f87079990f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.2_9f5fc133ba18c8ac3b9c11f31ef155817db3171a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_56d41e6d52a8327f65d0f0a56d1502d92e825376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_091f326c2643f37b7d14a9484dc4b8e218e1d9b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\sponsorpay-android-sdk-7.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6212bd5904109f68d848bd89a24f3ac64ffe7b45">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\sponsorpay-android-sdk-7.1.1_7d01cfe12a38746e007a3d7c9f602ffad72239ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\AarkiAndroidSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4bd4b01a780ea5f65249fe22ce1ad9436492ede6">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\AarkiAndroidSDK_70ba9dd69a157eb1c0702a4399abaea8573a5f64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_9ff12f4494db38e15bad82b6e905fe43771f6e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_8599f8049af888a435627656f98d183effe93605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_397abdbaaeff8b160ad95c228d4480c79d8755e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-base-9.0.2_daba6e232e074498e38938c46d745e005848275c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-9.0.2_ff81f35c009ee239c323b2767e711fc42d70766c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-9.0.2_1f6abb3b984c1949f0833789f6380380fd52ba87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_8ac239506e38de4ada6de5e16fdb9249cef06242\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_9b2d9fb359a602f3f0b60fd882912043cd5b9b07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_096ac0612680c862261938fdbe098a878e7b4f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-9.0.2_091f326c2643f37b7d14a9484dc4b8e218e1d9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.0.2_6adbb8b3664cc2f4214b0ad96152f8b44d279175.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_e4a12c8bbe1869c9212336dd077ccd163d3ff73b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\mobilewall\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2c8d163ac6d0c5043990d4f23df95776e7712bc8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\mobilewall-facebookSDK-unspecified_59b6cce1b423567bf9b06d4c1e5bccd78f8f1161.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_9f5fc133ba18c8ac3b9c11f31ef155817db3171a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_523d333705c17a49d8a0310bc803f45113fa5a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\AarkiAndroidSDK.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4bd4b01a780ea5f65249fe22ce1ad9436492ede6">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\AarkiAndroidSDK_70ba9dd69a157eb1c0702a4399abaea8573a5f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-9.0.2_dafe0dc3c839f8a2f01c11afd2bc3904d616d2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-9.0.2_7b398cf0d5a69362c0df15f084330d79c04fc06f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_6adbb8b3664cc2f4214b0ad96152f8b44d279175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7eb4775baaee9df97f8487d69fbb90f3a89f4ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_1f6abb3b984c1949f0833789f6380380fd52ba87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_acb93e15923374ec9a8adc81b0992fe10bc5572f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\ssa-sdk-5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e469da72345f407f660f3ccd26618fb4cad5d259">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\ssa-sdk-5.8_2e2b589d9a332ca90277aa8f2d0a2bd760c21ef2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_4834dd397ba9f3fc417abd7850d6c281b9b401fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-mediarouter-v7-23.0.0_8170d43110a688648b0f846c617028b3289e7926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-9.0.2_bc8376da83ba6de4a7d99eed5349ca92ef8f5143.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_bee74733b19cae6515ef5aec1cd3f316d2d7c92c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_df06966f91efc34cf7b7865ab67ebe47c342ef14\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-connection-9.0.2_be6cd874c7f44368c3ef4657486e58586f1ea0af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.2_523d333705c17a49d8a0310bc803f45113fa5a06.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_bc8376da83ba6de4a7d99eed5349ca92ef8f5143\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-api-9.0.2_53fa5b7d035ee1527e79023046796f87079990f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.0.2_bbd5386a6b6af0b7ac66bca3c10cdd9f74f24c16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_7b398cf0d5a69362c0df15f084330d79c04fc06f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-games-9.0.2_ca9b69d187c9e92215ffd978c54b742fa6b71c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_7eb4775baaee9df97f8487d69fbb90f3a89f4ba4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\AdmobAdapter.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
         sha1="9cce0e5ebfec0f2c7c6aff01fd71057d0546e5f7">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\AdmobAdapter_4c4ec93fa61ae9b99962b898fe74d7c859b34f0d\classes.dex" />
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\AdmobAdapter_b72c2a6d0baf380576bb84ea5b06bd21da2f999f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\mobilewall\amazingListView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a60c63857093761887f547f8a1a0b2592058035">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\mobilewall-amazingListView-unspecified_d4eeed2a6912131743a04237e5606f20f4fb8694.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_40ab0c2e08dc732a22f9b38799d372d9ae3ec32e\classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_313a571cb89767c7be671d7b82e7dd35b3cedbd9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_eadab01820a4b6af0f90d739851fc1424213b9ab\classes.dex" />
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_8170d43110a688648b0f846c617028b3289e7926\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\libs\ssa-sdk-5.8.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_a31936ff56b2e54f4140c22581d681c547f726d8\classes.dex" />
+        sha1="e469da72345f407f660f3ccd26618fb4cad5d259">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\2\ssa-sdk-5.8_2e2b589d9a332ca90277aa8f2d0a2bd760c21ef2\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_0c039c0404a92a6956293a9795aeb32d63894989\classes.dex" />
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-panorama-9.0.2_acb93e15923374ec9a8adc81b0992fe10bc5572f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_617e0722ace6c92d7c004b0f30e4c61e6daf6f30\classes.dex" />
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-9.0.2_bee74733b19cae6515ef5aec1cd3f316d2d7c92c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_a2b8ae7e1dd75ea3caa36f9ef6bafd3bc871ca24\classes.dex" />
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-9.0.2_56d41e6d52a8327f65d0f0a56d1502d92e825376.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
+        is-multidex="false"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="J:\Android\Workspace\mobilewall\mobilewall\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_ed7da6f78e85a8b8b7531017fdcb5bdd7d8c6ad0\classes.dex" />
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_4834dd397ba9f3fc417abd7850d6c281b9b401fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\Sharjeel&apos;sWork\Workspace\mobilewall\mobilewall\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.2_a34e3e326442e42c272b65de41bd68e831037e3a.jar" />
     </item>
 
 </items>

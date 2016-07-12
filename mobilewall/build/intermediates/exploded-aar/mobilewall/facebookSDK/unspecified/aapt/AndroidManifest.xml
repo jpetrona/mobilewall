@@ -15,7 +15,8 @@
  * limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.facebook.android" >
+    package="com.facebook.android"
+    android:versionName="INSTANT_RUN" >
 
     <uses-sdk
         android:minSdkVersion="15"

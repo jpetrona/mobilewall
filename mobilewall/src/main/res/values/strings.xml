@@ -28,6 +28,6 @@
     <string name="title_section3">Section 3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-	<string name="app_id">309742702560287</string>
+	<string name="app_id"></string>
 	<string name="invite_text">Share your invitation code with friends!. you will get 25 point each time a new friend input your code successfully. Your friend will get 25 point too</string>
 </resources>

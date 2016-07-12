@@ -17,6 +17,7 @@ import com.mobilewall.app.R;
 import com.mobyadvert.money.lib.JSONParser;
 import com.mobyadvert.money.lib.UserFunctions;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -38,7 +39,7 @@ import android.util.*;
 
 import java.util.*;
 
-public class WithDrawHistoryActivity extends Fragment {
+public class WithDrawHistoryActivity extends Activity {
 
 	AmazingListView lsComposer;
 	SectionComposerAdapter adapter;
@@ -48,21 +49,20 @@ public class WithDrawHistoryActivity extends Fragment {
 	
 	
 	@Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-		View view =  inflater.inflate(R.layout.widthdrawhistorylayout, container, false);
-        
-        lsComposer = (AmazingListView)view.findViewById(R.id.lsComposer);
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.widthdrawhistorylayout);
+
+        lsComposer = (AmazingListView) findViewById(R.id.lsComposer);
 		
 		//lsComposer.setAdapter(adapter = new SectionComposerAdapter());
 
-		dialog = new ProgressDialog(getActivity());
+		dialog = new ProgressDialog(WithDrawHistoryActivity.this);
 		dialog.setMessage("Loading...");
 		
 		dialog.show();
         getData();
-		return view;
     }
 	
 	public void getData() {
@@ -83,7 +83,7 @@ public class WithDrawHistoryActivity extends Fragment {
 			List<NameValuePair> entity = new ArrayList<NameValuePair>();
 
 			UserFunctions userFunctions = new UserFunctions();
-			String user_id = userFunctions.getUserID(getActivity());
+			String user_id = userFunctions.getUserID(WithDrawHistoryActivity.this);
 			entity.add(new BasicNameValuePair("user_id", user_id));
 
 			JSONObject json = jsonParser.getJSONFromUrl(params[0], entity);
@@ -93,6 +93,8 @@ public class WithDrawHistoryActivity extends Fragment {
 		@Override
 		protected void onPostExecute(JSONObject json) {
 			super.onPostExecute(json);
+			if (dialog!=null)
+				dialog.dismiss();
 			UserFunctions userFunction = new UserFunctions();
 			// check return data
 			try {
@@ -101,13 +103,13 @@ public class WithDrawHistoryActivity extends Fragment {
 							JSONArray json_user = json.getJSONArray("withdraws");
 							processData(json_user);
 						} else {
-							Toast.makeText(getActivity(), "get data error. please try again", Toast.LENGTH_SHORT).show();
+							Toast.makeText(WithDrawHistoryActivity.this, "get data error. please try again", Toast.LENGTH_SHORT).show();
 						}
 				} else {
-					Toast.makeText(getActivity(), "get data error. please try again", Toast.LENGTH_SHORT).show();
+					Toast.makeText(WithDrawHistoryActivity.this, "get data error. please try again", Toast.LENGTH_SHORT).show();
 				}
 			} catch (JSONException e) {
-				Toast.makeText(getActivity(), e.getMessage(), Toast.LENGTH_SHORT).show();
+				Toast.makeText(WithDrawHistoryActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
 			}
 		}
 	}
@@ -156,7 +158,7 @@ public class WithDrawHistoryActivity extends Fragment {
 			all.add(getItmes(titleArray.get(j).toString(),composerList));
 		}
 
-		lsComposer.setPinnedHeaderView(getActivity().getLayoutInflater().inflate(R.layout.item_composer_header, lsComposer, false));
+		lsComposer.setPinnedHeaderView(WithDrawHistoryActivity.this.getLayoutInflater().inflate(R.layout.item_composer_header, lsComposer, false));
 		lsComposer.setAdapter(adapter = new SectionComposerAdapter());
 		dialog.dismiss();
 	}
@@ -217,7 +219,7 @@ public class WithDrawHistoryActivity extends Fragment {
 		@Override
 		public View getAmazingView(int position, View convertView, ViewGroup parent) {
 			View res = convertView;
-			if (res == null) res = getActivity().getLayoutInflater().inflate(R.layout.item_composer, null);
+			if (res == null) res = WithDrawHistoryActivity.this.getLayoutInflater().inflate(R.layout.item_composer, null);
 			
 			TextView point = (TextView) res.findViewById(R.id.widthdrawsPoint);
 			TextView status = (TextView) res.findViewById(R.id.widthdrawsDate);
