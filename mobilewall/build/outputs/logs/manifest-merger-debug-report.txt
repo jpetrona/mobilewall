@@ -17,6 +17,7 @@ ADDED from F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\src\main\AndroidMan
 		ADDED from F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [mobilewall:amazingListView:unspecified] F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\mobilewall\amazingListView\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [mobilewall:facebookSDK:unspecified] F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\mobilewall\facebookSDK\unspecified\AndroidManifest.xml:21:5-23:41
 MERGED from [com.android.support:support-v4:23.4.0] F:\Sharjeel'sWork\Workspace\mobilewall\mobilewall\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43

@@ -8,8 +8,12 @@ android {
         applicationId "com.mobilewall.app"
         minSdkVersion 15
         targetSdkVersion 23
+        multiDexEnabled true
     }
 
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
     buildTypes {
         release {
             minifyEnabled false

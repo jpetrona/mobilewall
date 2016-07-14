@@ -4,19 +4,19 @@
     api-level="21"
     density="xxhdpi"
     format="8"
-    timestamp="789516886302973"
+    timestamp="950039411098559"
     token="-7825561682182597324"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3054" />
+        duration="971" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1" />
     <task
         name="verifier"
         duration="0" />
@@ -26,7 +26,7 @@
         type="MAIN" />
 
     <build
-        timestamp="789516886302973"
+        timestamp="950039411098559"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\Sharjeel&amp;apos;sWork\Workspace\mobilewall\mobilewall\build\outputs\apk\mobilewall-debug.apk"
